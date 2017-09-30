@@ -13,8 +13,11 @@
 ### Extra Page
 ![Extra Page](https://preview.ibb.co/kBzNqb/Page_Extra.png)
 
-| task                              | Developer Name          | Status |   |   |
-|---------------                    |----------------|--------|---|---|
-| Test pull request in guithub      |                |        |   |   |
-|                       |           |        |   |   |
-|                       |           |        |   |   |
+| Task                              | Developer Name          | Status |   |   |
+|------------------------------     |----------------|--------|---|---|
+| Test pull request in guithub      |  Tarfa ,Hanan & Mona              |        |   |   |
+| CSS bootstap+JSON file (items details ,Store details+Map details)| Hanan          |        |   | Search Component                    |Tarfa           |        |   |   |
+| item Component                       |   Tarfa        |        |   |   |
+| List of item Component                       |  Tarfa         |        |   |   |
+| Pagination react of items Component           |   Hanan        |        |   |   |
+| Google Map API for Store places(Saco+Extra)                      | Mona          |        |   | Navigate to (Saco Page OR  Extra Page) |
