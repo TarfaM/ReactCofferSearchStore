@@ -1,14 +1,20 @@
 # ReactCoffeSearchStore
 
-## Below this a example of hoe react project will be  
+## Below this a example of prototype  of Search Store project
 
+### First Draft :
+![First Draft](https://preview.ibb.co/hxefRG/IMG_4171.jpg)
 ### Home Page
-![Alt text](https://preview.ibb.co/c3Qj3w/HomePage.png)
+![Home Page](https://preview.ibb.co/c3Qj3w/HomePage.png)
 
 ### Saco Page
-![Alt text](https://preview.ibb.co/frmP3w/Page3_Saco.png)
- 
-### Extra Page
-![Alt text](https://preview.ibb.co/kBzNqb/Page_Extra.png)
- 
+![Saco Page](https://preview.ibb.co/frmP3w/Page3_Saco.png)
 
+### Extra Page
+![Extra Page](https://preview.ibb.co/kBzNqb/Page_Extra.png)
+
+| task                              | Developer Name          | Status |   |   |
+|---------------                    |----------------|--------|---|---|
+| Test pull request in guithub      |                |        |   |   |
+|                       |           |        |   |   |
+|                       |           |        |   |   |
