@@ -34,3 +34,7 @@ run below command after copy to path for the project
     npm install react -save-dev
     npm install jquery -save-dev
     npm install bootstrap -save-dev
+    npm install react-dom -save-dev
+    npm install webpack  -save-dev
+    npm install webpack-dev-server -save-dev
+    npm install --save babel-core
