@@ -1,19 +1,18 @@
 # ReactCoffeSearchStore
 
 ## Below this a example of prototype  of Search Store project
-
 ### First Draft :
 ![First Draft](https://preview.ibb.co/hxefRG/IMG_4171.jpg)
 ### Home Page
 ![Home Page](https://preview.ibb.co/c3Qj3w/HomePage.png)
-
 ### Saco Page
 ![Saco Page](https://preview.ibb.co/frmP3w/Page3_Saco.png)
-
 ### Extra Page
 ![Extra Page](https://preview.ibb.co/kBzNqb/Page_Extra.png)
 
-| task                                                              	| Developer           	| Status 	|
+
+
+| Task                                                              	| Developer           	| Status 	|
 |-------------------------------------------------------------------	|---------------------	|--------	|
 | Test pull request in guithub                                      	| Tarfa ,Hanan & Mona 	| N/A    	|
 | Configure packages +js/css files +basic structure                 	| Tarfa               	| N/A    	|
@@ -24,3 +23,14 @@
 | Pagination react of items Component                               	| Mona                	| N/A    	|
 | Google Map API for Store places(Saco+Extra)                       	| Mona                	| N/A    	|
 | Navigate to (Saco Page OR,Extra Page)                             	| Hanan               	| N/A    	|
+
+
+### Configure packages +js/css files +basic structure
+run below command after copy to path for the project
+
+code (cd 'fullPathofyourProject')
+code (npm init)
+code (npm install)
+code (npm install react -save-dev)
+code (npm install jquery -save-dev)
+code (npm install bootstrap -save-dev)

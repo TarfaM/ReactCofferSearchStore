@@ -1,0 +1,28 @@
+{
+  "name": "coffersearchstore",
+  "version": "1.0.0",
+  "description": "React Search project",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository: (https://github.com/TarfaM/ReactCofferSearchStore)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarfaM/ReactCofferSearchStore.git"
+  },
+  "keywords": [
+    "Coffe",
+    "React"
+  ],
+  "author": "Tarfa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarfaM/ReactCofferSearchStore/issues"
+  },
+  "homepage": "https://github.com/TarfaM/ReactCofferSearchStore#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "react": "^16.0.0"
+  }
+}
