@@ -28,9 +28,9 @@
 ### Configure packages +js/css files +basic structure
 run below command after copy to path for the project
 
-code(cd 'fullPathofyourProject')
-code(npm init)
-code(npm install)
-code(npm install react -save-dev)
-code(npm install jquery -save-dev)
-code(npm install bootstrap -save-dev)
+    code(cd 'fullPathofyourProject')
+    code(npm init)
+    code(npm install)
+    code(npm install react -save-dev)
+    code(npm install jquery -save-dev)
+    code(npm install bootstrap -save-dev)
