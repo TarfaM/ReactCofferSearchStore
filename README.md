@@ -17,16 +17,16 @@
 | Test pull request in guithub                                      	| Tarfa ,Hanan & Mona 	| N/A    	|
 | Configure packages +js/css files +basic structure                 	| Tarfa               	| N/A    	|
 | CSS bootstap+JSON file (items details ,Store details+Map details) 	| Hanan               	| N/A    	|
-| Search Component                                                  	| Tarfa               	| N/A    	|
-| item Component                                                    	| Tarfa               	| N/A    	|
-| List of item Component                                            	| Tarfa               	| N/A    	|
+| Search Component[search_bar.js]                                                  	| Tarfa               	| N/A    	|
+| item Component [item.js]                                                   	| Tarfa               	| N/A    	|
+| List of item Component [list_items.js]                                           	| Tarfa               	| N/A    	|
 | Pagination react of items Component                               	| Mona                	| N/A    	|
-| Google Map API for Store places(Saco+Extra)                       	| Mona                	| N/A    	|
-| Navigate to (Saco Page OR,Extra Page)                             	| Hanan               	| N/A    	|
+| Google Map API for Store places(Saco+Extra) [item_detials.js]                      	| Mona                	| N/A    	|
+| Navigate to (Saco Page OR,Extra Page) [list_items.js]+ [item.js]                           	| Hanan               	| N/A    	|
 
 
 ### Configure packages +js/css files +basic structure
-run below command after copy to path for the project
+run below command after copy to path for the project to set your (React development environment) - Not required!
 
     cd 'fullPathofyourProject'
     npm init
