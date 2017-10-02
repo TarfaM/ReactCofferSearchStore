@@ -1,0 +1,15 @@
+ReactCofferSearchStore
+JSON -- structure Data 
+
+Item (id ,item_name ,item_color ,item_weight ,avilable_Item,avilable_store_name)
+Store (id ,location ,store_name ,location _name )
+
+ex:
+
+Item ("FKDJBG43984yfnf489" ,"Coffe 1" ,"black" ,"32 KG" ,2,"Saco")
+Item ("FKDJBG4398feryfnf489" ,"Coffe 1" ,"black" ,"32 KG" ,5,"Extra")
+
+Store ("FKDJBfeG4398feryfnf46639" ,[54.54][34.53] ,"Saco" ,"Exit 4")
+Store ("FKDJBfeG4398feryfnf48449" ,[54.54][34.53] ,"Saco" ,"Exit 5")
+
+Note: added some item details like color , size .
