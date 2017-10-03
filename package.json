@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "description": "React Search project",
   "main": "index.js",
+
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
-    "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
-    "test:watch": "npm run test -- --watch"
-  },
+   "test": "jest",
+   "start": "node src/index.js",
+   "postinstall": "webpack --config config/webpack.js",
+   "webpack": "webpack --config config/webpack.js",
+   "webpack-watch": "webpack --config config/webpack.js --watch --colors"
+},
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TarfaM/ReactCofferSearchStore.git"

@@ -15,7 +15,7 @@
 | Task                                                              	| Developer           	| Status 	|
 |-------------------------------------------------------------------	|---------------------	|--------	|
 | Test pull request in guithub                                      	| Tarfa ,Hanan & Mona 	| N/A    	|
-| Configure packages +js/css files +basic structure                 	| Tarfa               	| N/A    	|
+| Configure packages +js/css files +basic structure                 	| Tarfa               	| Pending+Done+Done    	|
 | CSS bootstap+JSON file (items details ,Store details+Map details) 	| Hanan               	| N/A    	|
 | Search Component[search_bar.js]                                                  	| Tarfa               	| N/A    	|
 | item Component [item.js]                                                   	| Tarfa               	| N/A    	|

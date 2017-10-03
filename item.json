@@ -25,23 +25,20 @@
          "avilable_store_name": "Saco"
       }
    ]
-     "Store ": [
+
+   ,"Store ": [
       {
          "Id": "9ur438utwfewudugkjjffflkj",
-         "location": [54.54],[34.53],
+         "location": ["54.54","34.53"],
          "store_name": "Saco",
-         "location _name": "Exit 5",
+         "location _name": "Exit 5"
 
       },
      {
          "Id": "9ur438utudugkjefwejffflkj",
-         "location": [54.54],[34.53],
+         "location": ["54.54","34.53"],
          "store_name": "Extra",
-         "location _name": "Exit 5",
+         "location _name": "Exit 5"
       }
-     
-     
-     
    ]
-   
 }
